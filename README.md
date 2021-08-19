@@ -9,5 +9,5 @@ The created webpage allows users to parse through the date using different searc
 ### Drawbacks
 The page doesn't allow users to search a range of dates or multiple areas at once. It would be tedious to have to search each individual date or each area at a time.
 ### Recommendations
-Add more filter options, such as time of day.
-Add pagination to improve user experience.
+- Add more filter options, such as time of day.
+- Add pagination to improve user experience.
